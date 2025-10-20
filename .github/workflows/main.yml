@@ -12,7 +12,7 @@ on:
 # Define environment variables
 env:
   DOCKER_IMAGE_NAME: nodejs-demo-app
-  DOCKER_REPO: your-dockerhub-username/nodejs-demo-app # IMPORTANT: Change this to your actual Docker Hub username
+  DOCKER_REPO: khushikachhawaha/nodejs-demo-app # IMPORTANT: Change this to your actual Docker Hub username
 
 jobs:
   # --------------------
